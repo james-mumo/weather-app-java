@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp-java</string>
+    <string name="cityName">Nairobi</string>
+    <string name="enterCityName">Enter City Name</string>
+    <string name="todayWeatherForecast">Today\'s Weather Forecast</string>
+    <string name="time">Time</string>
+</resources>
